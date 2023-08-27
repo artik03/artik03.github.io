@@ -2,6 +2,7 @@
   "name": "tetriswebapp",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://artik03.github.io/tetris-webapp/",
   "type": "module",
   "scripts": {
     "dev": "vite",
