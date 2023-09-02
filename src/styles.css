@@ -2,7 +2,6 @@ html,
 body {
   height: 100%;
   width: 100%;
-  overflow: hidden;
   box-sizing: border-box;
   background-color: darkslategrey;
   font-family: "Belanosima", sans-serif;
