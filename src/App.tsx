@@ -138,6 +138,7 @@ function App() {
     startCountdown();
 
     setTimeout(() => {
+      if (isGameActive.current == false) return;
       startMove();
     }, 4000);
   };
